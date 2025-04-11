@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Homecontroller {
     @GetMapping
     public String home() {
-        return "¡Hola mundo! CI/CD Listo! Probando el push ((((:";
+        return "¡Hola mundo! CI/CD Listo! Probando el push (: (: (:";
     }
 
 }
